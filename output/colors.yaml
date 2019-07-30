@@ -1,0 +1,8 @@
+red: red-value
+green:
+    lime-green: lime-green-value
+    neon-green: neon-green-value
+blue:
+- light-blue
+- dark-blue
+- baby-blue

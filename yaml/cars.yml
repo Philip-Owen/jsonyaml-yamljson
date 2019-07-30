@@ -1,0 +1,13 @@
+audi:
+  - suv:
+      - Q3
+      - Q5
+      - Q7
+  - sedan:
+      - a3
+      - a4
+      - a6
+volkswagen:
+  passat: mid-sized
+  jetta: compact
+porsche: 911
