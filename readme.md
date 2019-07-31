@@ -2,7 +2,11 @@
 
 Converts .json files to .yaml files and vice versa.
 
-Requires PyYaml:
+## Initial Steps
+
+Clone this repo and install PyYaml:
+
+`git clone https://github.com/Philip-Owen/jsonyaml-yamljson.git`
 
 `pip install pyyaml`
 
@@ -20,6 +24,6 @@ The converted files by default are created in the output folder in this director
 
 The script looks in the `./json` and `./yaml` folders for the files to convert but like with the output files, you can specify a different location via the prompt.
 
-### Notes
+## Notes
 
 The script will work with both YAML extensions, `.yml` and `.yaml`, when converting to JSON but only `.yaml` files will be created when converting from JSON.
